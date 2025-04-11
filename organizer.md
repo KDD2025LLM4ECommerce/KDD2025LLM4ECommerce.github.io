@@ -34,7 +34,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/xianfeng.jpg" alt="Organizer" class="organizer-img">
     <h3>Xianfeng Tang</h3>
@@ -48,7 +48,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/hui.jpg" alt="Organizer" class="organizer-img">
     <h3>Hui Liu</h3>
@@ -62,7 +62,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/zhenwei.jpg" alt="Organizer" class="organizer-img">
     <h3>Zhenwei Dai</h3>
@@ -90,7 +90,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/yiwei.jpg" alt="Organizer" class="organizer-img">
     <h3>Yiwei Sun</h3>
@@ -105,7 +105,7 @@ classes: wide
 <hr class="organizer-divider">
 
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/Zhen.jpg" alt="Organizer" class="organizer-img">
     <h3>Zhen Li</h3>
@@ -119,7 +119,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/luochen.jpeg" alt="Organizer" class="organizer-img">
     <h3>Chen Luo</h3>
@@ -133,7 +133,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/dawei.png" alt="Organizer" class="organizer-img">
     <h3>Dawei Yin</h3>
@@ -147,7 +147,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/suhang.jpg" alt="Organizer" class="organizer-img">
     <h3>Suhang Wang</h3>
@@ -161,7 +161,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/jt.jpg" alt="Organizer" class="organizer-img">
     <h3>Jiliang Tang</h3>
@@ -175,7 +175,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/qi.jpeg" alt="Organizer" class="organizer-img">
     <h3>Qi He</h3>
@@ -190,7 +190,7 @@ classes: wide
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
+<div class="organizer-row">
   <div class="organizer-image">
     <img src="/assets/images/jian.jpg" alt="Organizer 11" class="organizer-img">
     <h3>Jian Pei</h3>
