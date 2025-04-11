@@ -8,11 +8,11 @@ header:
   actions:
     - label: "Learn More"
       url: "/cfp/"
-excerpt: "Join us at WWW'25 to explore how Large Language Models are advancing e-commerce research and applications."
+excerpt: "Join us at KDD'25 to explore how Large Language Models are advancing e-commerce research and applications."
 ---
 
 
-Welcome to the **Large Language Model for E-Commerce Workshop** at [WWW'25](https://www2025.thewebconf.org/).
+Welcome to the **Large Language Model for E-Commerce Workshop** at [KDD'25](https://kdd2025.kdd.org/).
 
 ## Call for Papers
 
@@ -23,20 +23,16 @@ This workshop seeks to explore a wide range of topics related to the use of LLMs
 
 
 ## Important Dates
-- Submission Deadline: January 26, 2025
-- Notification: February 09, 2025
-- Camera-ready: February 16, 2025
-- Workshop: April 28 or 29, 2025
+- Submission Deadline: May 8th, 2025
+- Notification: June 8th, 2025
+- Camera-ready: June 24th, 2025
+- Workshop: August 6th, 2025
 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.
 
-## Fast-Track
-We accept the Fast-Track of WWW 2025. Please follow the instruction in [https://www2025.thewebconf.org/workshop-fast-track](https://www2025.thewebconf.org/workshop-fast-track).
-
 ## Submission
 
-Please submit your work through [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce)
-
+Please submit your work through 
 
 Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word) (also [available](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) in Overleaf). The recommended setting for LaTeX is: \documentclass[sigconf, anonymous, review]{acmart}.
 
