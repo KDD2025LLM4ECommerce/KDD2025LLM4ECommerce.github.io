@@ -92,13 +92,13 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-bio">
-    <p><a href="" target="_blank" rel="noopener">Yiwei Sun</a> works at applied research team at Meta GenAI. He received his PhD from Pennsylvania State University, and Bachelor's degree from Huazhong University of Science and Technology. His research mainly focuses on natural language processing, large language models, and machine learning. He has publications in top-tier conferences such as KDD, WWW, WSDM, etc.</p>
+    <p><a href="https://www.linkedin.com/in/yiweisunpsu/" target="_blank" rel="noopener">Yiwei Sun</a> works at applied research team at Meta GenAI. He received his PhD from Pennsylvania State University, and Bachelor's degree from Huazhong University of Science and Technology. His research mainly focuses on natural language processing, large language models, and machine learning. He has publications in top-tier conferences such as KDD, WWW, WSDM, etc.</p>
   </div>
   <div class="organizer-image">
     <img src="/assets/images/yiwei.JPG" alt="Organizer" class="organizer-img">
     <h3>Yiwei Sun</h3>
     <p class="institution">Meta GenAI</p>
-    <p class="institution"></p>
+    <p class="institution">Software Engineer</p>
   </div>
 </div>
 
