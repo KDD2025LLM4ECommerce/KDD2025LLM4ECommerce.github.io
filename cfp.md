@@ -12,7 +12,7 @@ LLMs have already been applied to a range of e-commerce tasks, including product
 
 This workshop seeks to explore a wide range of topics related to the use of LLMs in e-commerce, encompassing methods, datasets, applications, and systems. We invite submissions that address these challenges and contribute to advancing the state-of-the-art in LLMs for e-commerce.
 
-Please submit your work through [https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/LLM4ECommerce)
+Please submit your work through (comming later)
 
 
 Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word) (also [available](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) in Overleaf). The recommended setting for LaTeX is: \documentclass[sigconf, anonymous, review]{acmart}.
