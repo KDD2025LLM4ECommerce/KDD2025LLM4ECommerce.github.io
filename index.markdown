@@ -2,7 +2,7 @@
 layout: splash
 title: "Large Language Model for E-Commerce Workshop"
 header:
-  overlay_image: /assets/images/homepage.jpg
+  overlay_image: https://kdd2025.kdd.org/wp-content/uploads/2024/12/KDD25-Hero1-100.jpg
   style: "background-size: contain; background-position: center; height: auto; min-height: 120vh;"
   overlay_filter: 0.5 # Darkens the image for better text visibility
   actions:
