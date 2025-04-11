@@ -34,7 +34,7 @@ All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone
 
 Please submit your work through 
 
-Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word) (also [available](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) in Overleaf). The recommended setting for LaTeX is: \documentclass[sigconf, anonymous, review]{acmart}.
+Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website]() (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word) (also [available](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) in Overleaf). The recommended setting for LaTeX is: \documentclass[sigconf, anonymous, review]{acmart}.
 
 
 - Long paper: Submission of original work up to eight pages in length (unlimited references and appendix).
@@ -65,6 +65,5 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 - Scalable and Distributed Training
 - Model Serving and Deployment
 - Machine Learning Systems for E-Commerce LLM
-
 
 [Learn More](/cfp/)
