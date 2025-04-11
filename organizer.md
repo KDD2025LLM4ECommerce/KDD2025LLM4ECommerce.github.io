@@ -14,7 +14,21 @@ classes: wide
     <p class="institution">Michigan State University</p>
   </div>
   <div class="organizer-bio">
-    <p><a href="https://cse.msu.edu/~hanhaoy1/" target="_blank" rel="noopener">Haoyu Han</a> is a senior Ph.D. student of computer science and engineering at Michigan State University (MSU). His supervisor is Dr. Jiliang Tang. Before joining MSU, he completed his M.S. (2021) and B.S. (2018) at USTC. His current research interests include LLMs and machine learning on graphs. After joining MSU, he has published several works in top conferences (e.g., KDD, ICDM, NeurIPS, ICML, and ICLR).</p>
+    <p><a href="https://cse.msu.edu/~hanhaoy1/" target="_blank" rel="noopener">Haoyu Han</a> is a senior Ph.D. student of computer science and engineering at Michigan State University. His supervisor is Dr. Jiliang Tang. Before joining MSU, he completed his M.S. ~(2021) and B.S.~(2018) at University of Science and Technology of China. His current research interests include LLMs and machine learning on graphs. After joining MSU, he has published several works in top conferences (e.g., KDD, ICDM, NeurIPS, ICML, and ICLR). He was the recipients of the KDD'22, NeurIPS'24 Student Travel Award.</p>
+  </div>
+</div>
+
+<hr class="organizer-divider">
+
+
+<div class="organizer-row">
+  <div class="organizer-image">
+    <img src="/assets/images/fali.jpg" alt="Organizer" class="organizer-img">
+    <h3>Fali Wang</h3>
+    <p class="institution">The Pennsylvania State University</p>
+  </div>
+  <div class="organizer-bio">
+    <p><a href="https://fairyfali.github.io/" target="_blank" rel="noopener">Fali Wang</a> is a senior Ph.D. candidate in informatics at the Pennsylvania State University (PSU), under the guidance of Dr. Suhang Wang. Prior to joining PSU, he earned his M.S. degree in 2021 from UCAS and his B.E. in 2018 from NEFU. His research primarily focuses on LLM Knowledge and Graph Learning. Since enrolling at PSU, he has published several papers presented at top conferences (e.g., ACL, EMNLP, ICLR, CIKM, and WSDM).</p>
   </div>
 </div>
 
@@ -22,7 +36,7 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-bio">
-    <p><a href="https://xta.ng/" target="_blank" rel="noopener">Xianfeng Tang</a> is a senior Applied Scientist at Amazon. His research is mainly about machine learning, graph neural networks, data mining, and natural language understanding. He obtained a PhD degree from the Pennsylvania State University, and a Bachelor's degree from the University of Science and Technology of China. He has published innovative works in top-tier conferences such as ICLR, ICML, NeurIPS, KDD, etc.</p>
+    <p><a href="https://xta.ng/" target="_blank" rel="noopener">Xianfeng Tang</a> is a senior Applied Scientist at Amazon. His research mainly about machine learning, graph neural networks, data mining and natural language understanding. He obtained a PhD degree from the Pennsylvania State University, and a Bachelor degree from University of Science and Technology of China. He has published innovative works in top-tier conferences such as ICLR, ICML, NeurIPS, KDD, etc. </p>
   </div>
   <div class="organizer-image">
     <img src="/assets/images/xianfeng.jpg" alt="Organizer 2" class="organizer-img">
@@ -34,9 +48,37 @@ classes: wide
 
 <hr class="organizer-divider">
 
+<div class="organizer-row reverse">
+  <div class="organizer-bio">
+    <p><a href="https://layneins.github.io/" target="_blank" rel="noopener">Hui Liu</a> is an Applied Scientist at Amazon Search. He received his PhD from Queen’s University, Canada, and a Bachelor's degree from Peking University. His research mainly focuses on natural language processing, large language models, text mining, and machine learning. He has publications in top-tier conferences such as ACL, EMNLP, ICLR, etc.</p>
+  </div>
+  <div class="organizer-image">
+    <img src="/assets/images/hui.jpg" alt="Organizer 2" class="organizer-img">
+    <h3>Hui Liu</h3>
+    <p class="institution">Amazon</p>
+    <p class="institution">Applied Scientist</p>
+  </div>
+</div>
+
+<hr class="organizer-divider">
+
+<div class="organizer-row reverse">
+  <div class="organizer-bio">
+    <p><a href="https://daizhenwei.github.io/" target="_blank" rel="noopener">Zhenwei Dai</a> is an applied scientist at Amazon Search. He received his PhD degree from Rice University and Bacheloar degree from Chinese University of Hong Kong (CUHK). His research mainly focus on information retrieval, machine learning, natural language processing and large language models. He has publications in top conferences such as NeurIPS, ICML, ICLR, SIGMOD, etc.</p>
+  </div>
+  <div class="organizer-image">
+    <img src="/assets/images/zhenwei.jpg" alt="Organizer 2" class="organizer-img">
+    <h3>Zhenwei Dai</h3>
+    <p class="institution">Amazon</p>
+    <p class="institution">Applied Scientist</p>
+  </div>
+</div>
+
+<hr class="organizer-divider">
+
 <div class="organizer-row">
   <div class="organizer-image">
-    <img src="/assets/images/JingHuang.jpg" alt="Organizer 3" class="organizer-img">
+    <img src="/assets/images/JingHuang.jpg" alt="Organizer" class="organizer-img">
     <h3>Jing Huang</h3>
     <p class="institution">Amazon</p>
     <p class="institution">Principal Scientist</p>
@@ -50,52 +92,25 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-bio">
-    <p><a href="https://www.linkedin.com/in/monica-c-214a798/" target="_blank" rel="noopener">Monica Cheng</a> is a senior Applied Scientist Manager at Amazon Search, leading a team of scientists and engineers in the search assistant at Amazon. Her team focuses on modeling shopping missions that convert the search engine from a stateless lookup tool into a stateful, multi-turn intelligent system and intelligent assistant engine. She holds a Ph.D. in Physics from UC Irvine.</p>
+    <p><a href="" target="_blank" rel="noopener">Yiwei Sun</a> works at applied research team at Meta GenAI. He received his PhD from Pennsylvania State University, and Bachelor's degree from Huazhong University of Science and Technology. His research mainly focuses on natural language processing, large language models, and machine learning. He has publications in top-tier conferences such as KDD, WWW, WSDM, etc.</p>
   </div>
   <div class="organizer-image">
-    <img src="/assets/images/Monica Cheng.JPG" alt="Organizer 4" class="organizer-img">
-    <h3>Monica Cheng</h3>
-    <p class="institution">Amazon</p>
-    <p class="institution">Senior Applied Scientist Manager</p>
+    <img src="/assets/images/yiwei.JPG" alt="Organizer" class="organizer-img">
+    <h3>Yiwei Sun</h3>
+    <p class="institution">Meta GenAI</p>
+    <p class="institution"></p>
   </div>
 </div>
 
 <hr class="organizer-divider">
 
-<div class="organizer-row reverse">
-  <div class="organizer-bio">
-    <p><a href="https://www.linkedin.com/in/omar-alonso-8a5235/" target="_blank" rel="noopener">Omar Alonso</a> is a senior applied science manager at Amazon. He is an experienced applied researcher working on the intersection of social data, information retrieval, knowledge graphs, and human computation/crowdsourcing. He is also a faculty member at Northeastern University. He holds a Ph.D. from the University of California at Davis and an undergraduate degree from UNICEN, Argentina.</p>
-  </div>
-  <div class="organizer-image">
-    <img src="/assets/images/omar1.jpeg" alt="Organizer 5" class="organizer-img">
-    <h3>Omar Alonso</h3>
-    <p class="institution">Amazon</p>
-    <p class="institution">Senior Applied Scientist Manager</p>
-  </div>
-</div>
-
-<hr class="organizer-divider">
-
-<div class="organizer-row reverse">
-  <div class="organizer-bio">
-    <p><a href="" target="_blank" rel="noopener">Hanqing Lu</a> is a senior applied scientist at Amazon Search. He obtained a MS degree from the Machine Learning Department of Carnegie Mellon University. His research interests are machine learning and data mining. </p>
-  </div>
-  <div class="organizer-image">
-    <img src="/assets/images/hanqing.jpg" alt="Organizer 6" class="organizer-img">
-    <h3>Hanqing Lu</h3>
-    <p class="institution">Amazon</p>
-    <p class="institution">Senior Applied Scientist</p>
-  </div>
-</div>
-
-<hr class="organizer-divider">
 
 <div class="organizer-row reverse">
   <div class="organizer-bio">
     <p><a href="https://www.linkedin.com/in/zhenlimathstat/" target="_blank" rel="noopener">Zhen Li</a> is an Engineering Manager at Amazon Search, where he leads a team dedicated to enhancing customer conversation understanding to identify shopping intent. Before joining Amazon, Zhen spent several years at Facebook (now Meta), driving user growth and advertising initiatives. His expertise includes applying Graph Neural Network models for abuse detection and leveraging Large Language Models (LLMs) to innovate in e-commerce applications.</p>
   </div>
   <div class="organizer-image">
-    <img src="/assets/images/Zhen.jpg" alt="Organizer 7" class="organizer-img">
+    <img src="/assets/images/Zhen.jpg" alt="Organizer" class="organizer-img">
     <h3>Zhen Li</h3>
     <p class="institution">Amazon</p>
     <p class="institution">Engineering Manager</p>
@@ -109,7 +124,7 @@ classes: wide
     <p><a href="http://chen-luo.com/" target="_blank" rel="noopener">Chen Luo</a> is a senior applied scientist at Amazon Search, leading a team of scientists and engineers in query understanding and its applications in matching, ranking, and advertising. His research focuses on scalable machine learning for information retrieval and recommender systems. He received his Ph.D. from Rice University and has published in ML and IR conferences and journals such as WWW, KDD, SIGIR, AAAI, and JMLR. He regularly serves as SPC or PC for NeurIPS, ICML, KDD, AAAI, and WWW. </p>
   </div>
   <div class="organizer-image">
-    <img src="/assets/images/luochen.jpeg" alt="Organizer 8" class="organizer-img">
+    <img src="/assets/images/luochen.jpeg" alt="Organizer" class="organizer-img">
     <h3>Chen Luo</h3>
     <p class="institution">Amazon</p>
     <p class="institution">Senior Applied Scientist</p>
@@ -123,7 +138,7 @@ classes: wide
     <p><a href="https://www.yindawei.com/" target="_blank" rel="noopener">Dawei Yin</a> is Senior Director of Engineering at Baidu inc.. He is managing the search science team at Baidu, leading Baidu’s science efforts of web search, question answering, video search, image search, news search, app search, etc.. Previously, he was Senior Director, managing the recommendation engineering team at JD.com between 2016 and 2020. Prior to JD.com, he was Senior Research Manager at Yahoo Labs, leading relevance science team and in charge of Core Search Relevance of Yahoo Search. He obtained Ph.D. (2013), M.S. (2010) from Lehigh University and B.S. (2006) from Shandong University. His research interests include data mining, applied machine learning, information retrieval and recommender system. He serves as conference organizers (e.g., KDD, SIGIR, WSDM) and journal editors (e.g., FnTIR). He published more than 100 research papers in premium conferences and journals, and was the recipient of  8 Best Paper Awards (or runner-ups), including KDD, WSDM, ICDM Best Paper Awards. </p>
   </div>
   <div class="organizer-image">
-    <img src="/assets/images/dawei.png" alt="Organizer 9" class="organizer-img">
+    <img src="/assets/images/dawei.png" alt="Organizer" class="organizer-img">
     <h3>Dawei Yin</h3>
     <p class="institution">Baidu</p>
     <p class="institution">Senior Director of Engineering</p>
@@ -134,10 +149,24 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-bio">
+    <p><a href="https://faculty.ist.psu.edu/szw494/" target="_blank" rel="noopener">Suhang Wang</a> is an Associate Professor of the College of Information Sciences and Technology at The Pennsylvania State University – University Park. His research interests are in graph mining, trustworthy machine learning, and generative artificial intelligence. He has published 150+ papers in top-tier machine learning and data mining conferences and journals, which has garnered 22,700+ Google Scholar citations with h-index 60. He is a recipient of the AI 2000 Most Influential Scholar Honorable Mention from AMiner and the 2022 Global Top Chinese Young Scholars in Artificial Intelligence. He has served as an area chair and senior PC member for many conferences such as KDD, NeurIPS, WSDM, and CIKM. He is also an associate editor for neurocomputing, ACM TKDD, ACM TIST, and Frontiers in Big Data. </p>
+  </div>
+  <div class="organizer-image">
+    <img src="/assets/images/suhang.jpeg" alt="Organizer" class="organizer-img">
+    <h3>Suhang Wang</h3>
+    <p class="institution">The Pennsylvania State University</p>
+    <p class="institution">Associated Professor</p>
+  </div>
+</div>
+
+<hr class="organizer-divider">
+
+<div class="organizer-row reverse">
+  <div class="organizer-bio">
     <p><a href="https://www.cse.msu.edu/~tangjili/" target="_blank" rel="noopener">Jiliang Tang</a> is University Foundation Professor in the computer science and engineering department at Michigan State University. His research interests include graph machine learning, trustworthy AI, and their applications in Education and Biology. He authored the first comprehensive book “deep learning on graphs” with Cambridge University Press and developed various well-received open-sourced tools including scikit-feature for feature selection, DeepRobust for trustworthy AI and DANCE for single-cell analysis. He was the recipient of various career awards (2022 IAPR J. K. AGGARWAL, 2022 SIAM SDM, 2021 IEEE ICDM, 2021 IEEE Big Data Security, 2020 ACM SIGKDD, 2019 NSF), numerous industrial faculty awards and 8 best paper awards (or runner-ups) including WSDM2018 and KDD2016. He serves as conference organizers (e.g., KDD, SIGIR, WSDM and SDM) and journal editors (e.g., TKDD, TOIS and TKDE). He has organized 20+ workshops in top AI conferences such as AI for Education in AAAI20, AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education, DLG-AAAI'21 and DLG-AAAI'23. He has published his research in highly ranked journals and top conference proceedings, which have more than 41,000 citations with h-index 98 and extensive media coverage. </p>
   </div>
   <div class="organizer-image">
-    <img src="/assets/images/jt.jpg" alt="Organizer 9" class="organizer-img">
+    <img src="/assets/images/jt.jpg" alt="Organizer" class="organizer-img">
     <h3>Jiliang Tang</h3>
     <p class="institution">Michigan State University</p>
     <p class="institution">University Foundation Professor</p>
@@ -151,7 +180,7 @@ classes: wide
     <p><a href="https://www.linkedin.com/in/qi-he/" target="_blank" rel="noopener">Qi He</a> as Amazon's Director of Applied Science, is a technical leader in AI and its business applications, with a track record of 20 years of experience leading and executing large complex AI projects. He serves as a Steering Committee member of ACM CIKM and an advisory board member of Neurocomputing Journal. He held many editorial and conference chair positions, including Associate Editor of IEEE TKDE and Neurocomputing Journal, General Chair of CIKM 2013, PC Chair of CIKM 2019 and Industry Chair of Web 2024, while also served as a (senior) program committee member of SIGKDD, SIGIR, WWW, CIKM, and WSDM for over a decade. Qi has published over 70 papers and patents with over 7000 citations to date. He received the 2008 ACM SIGKDD Best Application Paper Award and the 2020 ACM WSDM 10-year Test of Time Award. Qi is an IEEE Fellow, ACM Distinguished Member and was featured as the People of ACM in February 2021.  </p>
   </div>
   <div class="organizer-image">
-    <img src="/assets/images/qi.jpeg" alt="Organizer 10" class="organizer-img">
+    <img src="/assets/images/qi.jpeg" alt="Organizer" class="organizer-img">
     <h3>Qi He</h3>
     <p class="institution">Amazon</p>
     <p class="institution">Director of Applied Science</p>
