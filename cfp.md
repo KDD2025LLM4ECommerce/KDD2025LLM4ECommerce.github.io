@@ -46,7 +46,9 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 - Machine Learning Systems for E-Commerce LLM
 
 ## Important Dates
-- Submission Deadline: January 26, 2024
-- Notification: February 28, 2025
-- Camera-ready: March 03, 2025
-- Workshop: April 28 or 29, 2025
+- Submission Deadline: May 8th, 2025
+- Notification: June 8th, 2025
+- Camera-ready: June 24th, 2025
+- Workshop: August 6th, 2025
+  
+All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.
