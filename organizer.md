@@ -64,7 +64,7 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-image">
-    <img src="/assets/images/zhenwei.jpg" alt="Organizer 2" class="organizer-img">
+    <img src="/assets/images/zhenwei.jpg" alt="Organizer" class="organizer-img">
     <h3>Zhenwei Dai</h3>
     <p class="institution">Amazon</p>
     <p class="institution">Applied Scientist</p>
@@ -92,7 +92,7 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-image">
-    <img src="/assets/images/yiwei.JPG" alt="Organizer" class="organizer-img">
+    <img src="/assets/images/yiwei.jpg" alt="Organizer" class="organizer-img">
     <h3>Yiwei Sun</h3>
     <p class="institution">Meta GenAI</p>
     <p class="institution">Software Engineer</p>
@@ -149,7 +149,7 @@ classes: wide
 
 <div class="organizer-row reverse">
   <div class="organizer-image">
-    <img src="/assets/images/suhang.jpeg" alt="Organizer" class="organizer-img">
+    <img src="/assets/images/suhang.jpg" alt="Organizer" class="organizer-img">
     <h3>Suhang Wang</h3>
     <p class="institution">The Pennsylvania State University</p>
     <p class="institution">Associated Professor</p>
