@@ -32,7 +32,7 @@ All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone
 
 ## Submission
 
-Please submit your work through 
+Please submit your work through [https://openreview.net/group?id=KDD.org/2025/Workshop/LLM4ECommerce](https://openreview.net/group?id=KDD.org/2025/Workshop/LLM4ECommerce)
 
 Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website]() (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word) (also [available](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) in Overleaf). The recommended setting for LaTeX is: \documentclass[sigconf, anonymous, review]{acmart}.
 
