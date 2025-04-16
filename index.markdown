@@ -12,7 +12,7 @@ excerpt: "Join us at KDD'25 to explore how Large Language Models are advancing e
 ---
 
 
-Welcome to the **Large Language Model for E-Commerce Workshop** at [KDD'25](https://kdd2025.kdd.org/).
+Welcome to the **Large Language Model for E-Commerce Workshop** at [KDD'25](https://kdd2025.kdd.org/) | Toronto, ON, Canada.
 
 ## Call for Papers
 
