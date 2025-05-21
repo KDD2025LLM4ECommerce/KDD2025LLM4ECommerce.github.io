@@ -23,7 +23,7 @@ This workshop seeks to explore a wide range of topics related to the use of LLMs
 
 
 ## Important Dates
-- **Submission Deadline (Extended): May 22nd, 2025, 23:59 (Anywhere on Earth)**
+- **Submission Deadline: ~~May 22nd, 2025~~ Extended to May 29th, 2025**
 - Notification: June 8th, 2025
 - Camera-ready: June 24th, 2025
 - Workshop: August 6th, 2025
