@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "2nd Large Language Model for E-Commerce Workshop"
+title: "The 2nd Workshop on Large Language Models for E-Commerce"
 header:
   overlay_image: https://kdd2025.kdd.org/wp-content/uploads/2024/12/KDD25-Hero1-100.jpg
   style: "background-size: contain; background-position: center; height: auto; min-height: 120vh;"
@@ -12,7 +12,7 @@ excerpt: "Join us at KDD'25 to explore how Large Language Models are advancing e
 ---
 
 
-Welcome to the **2nd Large Language Model for E-Commerce Workshop** at [KDD'25](https://kdd2025.kdd.org/) | Toronto, ON, Canada.
+Welcome to **The 2nd Workshop on Large Language Models for E-Commerce** at [KDD'25](https://kdd2025.kdd.org/) | Toronto, ON, Canada.
 
 ## Call for Papers
 
