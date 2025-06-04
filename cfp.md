@@ -47,7 +47,7 @@ Submissions of papers must be in English, in PDF format, in the current ACM two-
 
 ## Important Dates
 - Submission Deadline: ~~May 22nd, 2025~~ Extended to May 29th, 2025
-- Notification: June 8th, 2025
+- Notification: June 16th, 2025
 - Camera-ready: June 24th, 2025
 - Workshop: August 6th, 2025
   
