@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Schedule"
     url: /schedule/
-  -title: "Accepted"
+  - title: "Accepted"
     url: /accepted/
   - title: "Organizers"
     url: /organizers/
