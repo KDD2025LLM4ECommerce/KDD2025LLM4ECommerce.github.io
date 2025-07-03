@@ -3,8 +3,6 @@ main:
     url: /
   - title: "Schedule"
     url: /schedule/
-  # - title: "CFP"
-  #   url: /cfp/
   -title: "Accepted"
     url: /accepted/
   - title: "Organizers"
