@@ -5,7 +5,6 @@ permalink: /accepted/
 ---
 
 ### Accepted Papers
-<span style="font-size: 14px;">
 + [Detecting and Correcting Price Discrepancies in Product Listings via LLM-Based Fact-Checking](/assets/accepted/1_Detecting_and_Correcting_Pri.pdf)
 + [Building Multi-Turn RAG for Customer Support with LLM Labeling](/assets/accepted/2_Building_Multi_Turn_RAG_for_.pdf)
 + [REIC: RAG-Enhanced Intent Classification at Scale](/assets/accepted/4_REIC_RAG_Enhanced_Intent_Cla.pdf)
@@ -19,4 +18,3 @@ permalink: /accepted/
 + [Verifying LLM-Driven Music Recommendation Systems](/assets/accepted/16_Verifying_LLM_Driven_Music_.pdf)
 + [Generative Representational Learning of Foundation Models for Recommendation](/assets/accepted/18_Generative_Representational.pdf)
 + [Aspect Sentiment Feature Extraction using Large Language Models for Cross Domain Recommendation](/assets/accepted/Zeeshanpaper_cameraready_AspectSentimentFeatureExtractionusingLLMforCrossDomainRecommendation_July32025.pdf)
-</span>
