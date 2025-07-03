@@ -26,7 +26,7 @@ This workshop seeks to explore a wide range of topics related to the use of LLMs
 - **Submission Deadline: ~~May 22nd, 2025~~ Extended to May 29th, 2025**
 - Notification: June 16th, 2025
 - Camera-ready: June 28th, 2025
-- Workshop: August 6th, 2025
+- Workshop: Monday, August 4, 2025 — 8:00 AM to 12:00 PM
 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.
 
