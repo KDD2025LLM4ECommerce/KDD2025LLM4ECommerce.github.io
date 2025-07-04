@@ -6,7 +6,7 @@ permalink: /accepted/
 
 ### Accepted Long Papers
 + [Detecting and Correcting Price Discrepancies in Product Listings via LLM-Based Fact-Checking](/assets/accepted/1_Detecting_and_Correcting_Pri.pdf)
-+ [Human-Aligned Long-Form Evaluation (HALF-Eval): Framework for Assessing AI-Generated Content and Improvement](/assets/accepted/5_Human_Aligned_Long_Form_Eval.pdf)
++ [Human-Aligned Long-Form Evaluation (HALF-Eval): Framework for Assessing AI-Generated Content and Improvement](/assets/accepted/HALFEval_KDD_Workshop_Revision.pdf)
 + [CatalogRAG: Retrieval-Guided LLM Prediction for Multilingual E-commerce Product Attributes](/assets/accepted/7_CatalogRAG_Retrieval_Guided_.pdf)
 + [MaRGen: Multi-Agent LLM Approach for Self-Directed Market Research and Analysis](/assets/accepted/8_MaRGen_Multi_Agent_LLM_Appro.pdf)
 + [Effective Product Schema Matching and Duplicate Detection with Large Language Models](/assets/accepted/10_Effective_Product_Schema_Ma.pdf)
