@@ -4,7 +4,6 @@ title: "Workshop Schedule"
 permalink: /schedule/
 ---
 
-### Workshop Schedule
 **Monday, August 4, 2025**
 **Location:** MTCC Room 717
 
